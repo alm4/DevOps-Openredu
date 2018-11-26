@@ -6,8 +6,8 @@
 
 ### Implantação do projeto
 
-[Report Sprint 1, 05/11 - 12/11]( "Report Sprint 1, 11/11 - 12/11")
+[Report Sprint 1, 05/11 - 12/11]( "Report Sprint 1, 05/11 - 12/11")
 
 [Report Sprint 2, 12/11 - 19/11](https://docs.google.com/presentation/d/1lxJ1UKI4Togk_ENdpRuqpGys6oHnyFY2O6ibPF91jrk/ "Report Sprint 2, 12/11 - 19/11")
 
-[Report Sprint 3, 19/11 - 26/11]( "Report Sprint 3, 19/11 - 26/11")
+[Report Sprint 3, 19/11 - 26/11](https://docs.google.com/presentation/d/1Y3r-12KS8Vr4Ly99me4Ax_xKCEmNP6FngZ0E5vF11gE/ "Report Sprint 3, 19/11 - 26/11")
