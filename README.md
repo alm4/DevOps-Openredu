@@ -14,6 +14,8 @@
 
 [Sprint 5, 03/12 - 13/12](https://docs.google.com/presentation/d/1v3IyjPUEfm5HjQtt2DDzRfrvFRlcnpbXz0mosPGSQwk/ "Sprint 5, 03/12 - 13/12")
 
+[Sprint 6, 13/12 - 20/12](https://docs.google.com/presentation/d/1pKFSUEWeFxebaro3xUXEbbvKWTKBTqFc4Aki6iUsLIM/ "Sprint 6, 13/12 - 20/12")
+
 ### Relatório de Desenvolvimento do Projeto - Documentação Técnica
 
 [Full Technical Report](https://docs.google.com/presentation/d/10ErGcciaKrXT0iL_0_qR2j1vYHollCnt4KJ0bkAdQK0/ "Full Technical Report")
